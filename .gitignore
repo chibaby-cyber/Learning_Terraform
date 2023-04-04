@@ -3,7 +3,7 @@
 .c9/*
 
 # tf state files
-*.tfstate
+terraform.tfstate
 *.tfstate.*
 
 # tf variable files,may contain sensitive data
