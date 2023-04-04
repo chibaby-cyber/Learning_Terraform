@@ -1,6 +1,6 @@
 # local terraform dir
-**/.terraform/*
-.terraform/*
+**/.terraform/
+.terraform/
 .c9/*
 
 # tf state files
