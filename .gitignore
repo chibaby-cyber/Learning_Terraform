@@ -1,5 +1,4 @@
 # local terraform dir
-**/.terraform/*
 .terraform/*
 .c9/*
 
